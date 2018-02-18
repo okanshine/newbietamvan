@@ -1,0 +1,2 @@
+# newbietamvan
+safelink.js
